@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon storefront app homework assignment",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llh914/bamazon.git"
+  },
+  "author": "Linette",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "latest",
+    "mysql": "latest",
+    "console.table": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/llh914/bamazon/issues"
+  },
+  "homepage": "https://github.com/llh914/bamazon#readme"
+}
