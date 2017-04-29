@@ -1,6 +1,6 @@
-# Bamazon Application
+# Bamazon
 
-The Bamazon Application is an online storefront that allows customers to place their orders directly and aids store owners in managing their product inventory.
+The Bamazon application is an online storefront that allows customers to place their orders directly and aids store owners in managing their product inventory.
 
 ## For Customers
 
